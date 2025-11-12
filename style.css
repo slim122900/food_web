@@ -138,7 +138,7 @@ right: 5px;
 img{
           width: 30%;
           height: 48vh;
-          border-radius: 12px;
+          /* border-radius: 12px; */
 }
 input[type="button"]{
           margin: 0;
